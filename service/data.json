@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "name": "Chetan",
+            "date of birth": "19 april"
+        },
+        {
+            "name": "Aashish",
+            "date of birth": "4 april"
+        },
+        {
+            "name": "ayush",
+            "date of birth": "5 feb"
+        },
+        {
+            "name": "abhinav",
+            "date of birth": "19 march"
+        },
+        {
+            "name": "mithilesh",
+            "date of birth": "1 april"
+        }
+    ]
+}
